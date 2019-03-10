@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/home/prabha/Prabha/Studies/AngularJS/Projects/Angular-GettingStarted-master"
+		},
+		{
+			"path": "/home/prabha/Prabha/Projects/tradeapp"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 10000
+	}
+}
